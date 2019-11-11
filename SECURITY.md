@@ -1,6 +1,6 @@
 # Security Policies and Procedures
 
-This document outlines security procedures and policies for the `privacytools.io` repository/code and all services hosted by privacytools.io, such as Mastodon, Matrix, Riot, et cetera.
+This document outlines security procedures and policies for the all of the PrivacyTools repositories and all services hosted by PrivacyTools, such as Mastodon, Matrix, Riot, et cetera.
 
 ## Reporting a Bug
 
@@ -32,4 +32,4 @@ Additionally, if user data was directly affected or compromised, we will inform 
 
 ## Comments on this Policy
 
-Please open a Pull Request or Issue if you would like to discuss any changes to this policy.
+Please open a [Pull Request](https://github.com/privacytoolsIO/.github/pulls) or [Issue](https://github.com/privacytoolsIO/.github/issues) if you would like to discuss any changes to this policy.
