@@ -1,6 +1,6 @@
 # Security Policies and Procedures
 
-This document outlines security procedures and policies for all PrivacyTools repositories and all services hosted by PrivacyTools, such as Mastodon, Matrix, Riot, et cetera.
+This document outlines security procedures and policies for all repositories owned by PrivacyTools and all services hosted by PrivacyTools, such as Mastodon, Matrix, Riot, et cetera.
 
 ## Reporting a Bug
 
