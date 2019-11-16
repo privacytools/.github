@@ -10,7 +10,7 @@ Report any security bugs by emailing the services administrator at [admin@privac
 
 The administrative team will acknowledge your message within 48 hours, and will provide a detailed response within 72 hours detailing the next steps for handling your report. After our initial reply we will make every effort to keep you informed of the progress towards a fix and announcement, and we may ask for additional information or guidance.
 
-Please report any security bugs in third-party projects to the person or team maintaining that project. Examples of third-party projects include our Searx instance (search.privacytools.io) and our Riot instance (riot.privacytools.io), as we do not actively maintain those projects.
+Please report any security bugs in third-party projects to the person or team developing that project. Examples of third-party projects include our Searx instance (search.privacytools.io) and our Riot instance (riot.privacytools.io), as we do not actively assist in developing those projects.
 
 The following are out of scope and should **not** be attacked/performed:
 
