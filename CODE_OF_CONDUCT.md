@@ -40,6 +40,14 @@ Project maintainers are responsible for clarifying the standards of
 acceptable behavior and are expected to take appropriate and fair
 corrective action in response to any instances of unacceptable behavior.
 
+Members of the official team are required to disclose any interests that may
+conflict against the interests of the privacytools.io website and community.
+If a team member has a private interest (for example, a job at a company which is listed
+or wants to be listed on the privacytools website), then it is seen as their duty to disclose this interest.
+If, after disclosure, it is decided by the team that there is indeed a conflict of interest, then the
+team member in question's voting power about that subject(for example, the vpn section) shall be removed.
+in short, when a team member has a conflict of interest, they may no longer vote about the subject they are conflicted about
+
 Project maintainers have the right and responsibility to remove, edit, or
 reject comments, commits, code, wiki edits, issues, and other contributions
 that are not aligned to this Code of Conduct, or to ban temporarily or
