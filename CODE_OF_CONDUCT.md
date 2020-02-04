@@ -48,6 +48,8 @@ or wants to be listed on the privacytools website), then it is seen as their dut
 To determine whether something is a conflict of interest or not, the following question will be asked at a case by case basis: Does the team members interest create an incentive to act (consciously  or sub-consciously) against the best interests of the Privacytools.io website and/or community.
 In short, when a team member has a conflict of interest, they may no longer vote about the subject they are conflicted about
 
+The team member is, however, allowed to join a discussion about the conflicted subject by voicing his own opinion and thoughts, but only if  they declare their conflict of interest with every message, post, call, etc.
+
 Project maintainers have the right and responsibility to remove, edit, or
 reject comments, commits, code, wiki edits, issues, and other contributions
 that are not aligned to this Code of Conduct, or to ban temporarily or
