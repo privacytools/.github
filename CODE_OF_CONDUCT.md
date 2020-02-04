@@ -44,8 +44,8 @@ Members of the official team are required to disclose any interests
 that may conflict against the interests of the privacytools.io website and/or community. 
 If a team member has a private interest (for example, a job at a company which is listed 
 or wants to be listed on the privacytools website), then it is seen as their duty to disclose this interest. 
-If, after disclosure, it is decided by the team that there is indeed a conflict of interest, 
-then the team member in question's voting power about that subject(for example, the vpn section) shall be removed. 
+
+To determine whether something is a conflict of interest or not, the following question will be asked at a case by case basis: Does the team members interest create an incentive to act (consciously  or sub-consciously) against the best interests of the Privacytools.io website and/or community.
 In short, when a team member has a conflict of interest, they may no longer vote about the subject they are conflicted about
 
 Project maintainers have the right and responsibility to remove, edit, or
