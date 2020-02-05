@@ -23,8 +23,8 @@ include:
 
 Examples of unacceptable behavior by participants include:
 
-* The use of sexualized language or imagery and unwelcome sexual attention
-  or advances
+* The use of sexualized language or imagery and unwelcome sexual attention or
+  advances
 * Trolling, insulting/derogatory, antagonistic comments and personal or
   political attacks
 * Promoting intolerance
@@ -36,53 +36,67 @@ Examples of unacceptable behavior by participants include:
 
 ## Our Responsibilities
 
-Project maintainers are responsible for clarifying the standards of
-acceptable behavior and are expected to take appropriate and fair
-corrective action in response to any instances of unacceptable behavior.
+Project maintainers are responsible for clarifying the standards of acceptable
+behavior and are expected to take appropriate and fair corrective action in
+response to any instances of unacceptable behavior.
 
-Members of the official team are required to disclose any interests 
-that may conflict against the interests of the PrivacyTools website and/or community. 
-If a team member has a private interest (for example, a job at a company which is listed 
-or wants to be listed on the privacytools website), then it is seen as their duty to disclose this interest. 
+Members of the official team are required to disclose any interests that may
+come into conflict with the mission of the PrivacyTools website or be at the
+disbenefit of the community.
 
-To determine whether something is a conflict of interest or not, the following question will be asked at a case by case basis: Does the team members interest create an incentive to act (consciously  or sub-consciously) against the best interests of the PrivacyTools website and/or community.
-In short, when a team member has a conflict of interest, they may no longer vote about the subject they are conflicted about
+If a team member has a private interest (e.g., a job at a company or
+organization which is either listed or wants to be listed), then it is that
+team member's duty to disclose their affiliation.
 
-The team member is, however, allowed to join a discussion about the conflicted subject by voicing their own opinion and thoughts, but only if  they declare their conflict of interest with every message, post, call, etc.
+To determine whether something is a conflict of interest, we consider whether
+or not the team member's contributions(s) (e.g., proposed changes to the site,
+comments, etc.) are within the interest of PrivacyTools or the community. Each
+case will be looked at and discussed, on an individual basis.
+
+If it is then decided by the other team members that there is a conflict of
+interest, the team member in question shall forfeit their right to vote on
+issues regarding their affiliation.
+
+The team member in question is however, allowed to put forward argument about
+their affiliation and that shall be considered as long as they make it clear to
+disclose their connection to the company or organization in question.
 
 Project maintainers have the right and responsibility to remove, edit, or
 reject comments, commits, code, wiki edits, issues, and other contributions
 that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem
-inappropriate, threatening, offensive, or harmful.
+permanently any contributor for other behaviors that they deem inappropriate,
+threatening, offensive, or harmful.
 
 ## Scope
 
 This Code of Conduct applies within all project spaces, and it also applies
-when an individual is representing as a part of the project or its
-community in public spaces.
+when an individual is representing as a part of the project or its community in
+public spaces.
 
 Examples of representing a project or community include using an official
-project e-mail address, posting via an official social media account, or
-acting as an appointed representative at an online or offline event.
-Representation of a project may be further defined and clarified by
-project maintainers.
+project e-mail address, posting via an official social media account, or acting
+as an appointed representative at an online or offline event.
+
+Representation of a project may be further defined and clarified by project
+maintainers.
 
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting blacklight447 via email on
-blacklight447@privacytools.io or [any team member on our forum].
+reported by contacting blacklight447 via email on blacklight447@privacytools.io
+or [any team member on our forum].
+
 The reports should include information on whether they can be shared to
 other team members and how much may be told.
 
 [any team member on our forum]:https://forum.privacytools.io/g/team
 
-All complaints will be reviewed and investigated and will result in a
-response that is deemed necessary and appropriate to the circumstances.
+All complaints will be reviewed and investigated and will result in a response
+that is deemed necessary and appropriate to the circumstances.
+
 The project team is obligated to maintain confidentiality with regard to the
-reporter of an incident. Further details of specific enforcement policies
-may be posted separately.
+reporter of an incident. Further details of specific enforcement policies may
+be posted separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
