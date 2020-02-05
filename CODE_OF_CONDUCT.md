@@ -41,7 +41,7 @@ acceptable behavior and are expected to take appropriate and fair
 corrective action in response to any instances of unacceptable behavior.
 
 Members of the official team are required to disclose any interests 
-that may conflict against the interests of the privacytools.io website and/or community. 
+that may conflict against the interests of the PrivacyTools website and/or community. 
 If a team member has a private interest (for example, a job at a company which is listed 
 or wants to be listed on the privacytools website), then it is seen as their duty to disclose this interest. 
 
