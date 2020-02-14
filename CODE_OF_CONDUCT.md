@@ -1,62 +1,12 @@
-# privacytools.io Code of Conduct
+# PrivacyTools Code of Conduct
 
-## Our Pledge
+Our projects adhere to a Code of Conduct which can be located in its entirety at [https://wiki.privacytools.io/view/PrivacyTools_Code_of_Conduct](https://wiki.privacytools.io/view/PrivacyTools_Code_of_Conduct). The following text serves as a **brief summary**, but should not be used as official documentation or construed as an all-inclusive list. Please refer to the full text on our wiki when referencing this document.
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to make participation in our project and
-our community a harassment-free experience for everyone, regardless of a
-distinction of any kind, such as age, body size, disability, ethnicity, sex
-characteristics, gender identity and expression, level of experience,
-education, socio-economic status, nationality, personal appearance, race,
-religion, or sexual identity and orientation.
-
-## Our Standards
-
-Examples of behavior that contributes to creating a positive environment
-include:
-
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
-
-Examples of unacceptable behavior by participants include:
-
-* The use of sexualized language or imagery and unwelcome sexual attention
-  or advances
-* Trolling, insulting/derogatory, antagonistic comments and personal or
-  political attacks
-* Promoting intolerance
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic
-  address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
-
-## Our Responsibilities
-
-Project maintainers are responsible for clarifying the standards of
-acceptable behavior and are expected to take appropriate and fair
-corrective action in response to any instances of unacceptable behavior.
-
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem
-inappropriate, threatening, offensive, or harmful.
-
-## Scope
-
-This Code of Conduct applies within all project spaces, and it also applies
-when an individual is representing as a part of the project or its
-community in public spaces.
-
-Examples of representing a project or community include using an official
-project e-mail address, posting via an official social media account, or
-acting as an appointed representative at an online or offline event.
-Representation of a project may be further defined and clarified by
-project maintainers.
+ 1. **We pledge** to make our community a harassment-free experience for everyone.
+ 2. **We strive** to create a positive environment, using welcoming and inclusive language, and being respecrful of the viewpoints of others.
+ 3. **We do not allow** inappropriate or otherwise unacceptable behavior, such as sexualized language, trolling and insulting comments, or otherwise promoting intolerance or harassment. The publishing of the personal information of others without their consent is also prohibited.
+ 4. **We are responsible for** clarifying the standards of our community, and have the right to remove or alter the comments of those participating within our community, as necessary.
+ 5. Our Code of Conduct applied within all project spaces, as well as when an individual is representing the PrivacyTools community.
 
 ## Enforcement
 
@@ -77,12 +27,3 @@ may be posted separately.
 Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
-
-## Attribution
-
-This Code of Conduct is forked from and licensed under Creative Commons
-BY-4.0, [Contributor Covenant version 1.4] by privacytools.io, which you can
-[find on our GitHub repository].
-
-[find on our GitHub repository]:https://github.com/privacytoolsIO/privacytools.io/blob/master/CODE_OF_CONDUCT.md
-[Contributor Covenant version 1.4]:https://contributor-covenant.org/version/1/4
