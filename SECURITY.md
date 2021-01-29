@@ -1,6 +1,6 @@
 # Security Policies and Procedures
 
-This document outlines security procedures and policies for all non-forked repositories owned by PrivacyTools and all services hosted by PrivacyTools, such as Mastodon, Matrix, Riot, et cetera.
+This document outlines security procedures and policies for all non-forked repositories owned by PrivacyTools and all services hosted by PrivacyTools, such as Mastodon, Matrix, PeerTube, et cetera.
 
 ## Reporting a Bug
 
@@ -32,4 +32,4 @@ Additionally, if user data was directly affected or compromised, we will inform 
 
 ## Comments on this Policy
 
-Please open a [Pull Request](https://github.com/privacytoolsIO/.github/pulls) or [Issue](https://github.com/privacytoolsIO/.github/issues) if you would like to discuss any changes to this policy.
+Please open a [Pull Request](https://github.com/privacytools/.github/pulls) or [Issue](https://github.com/privacytools/.github/issues) if you would like to discuss any changes to this policy.
