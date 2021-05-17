@@ -10,10 +10,10 @@ Our projects adhere to a Code of Conduct that is located in its entirety at [htt
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting blacklight447 via email on blacklight447@privacytools.io or [any team member on our forum]. The reports should include information on whether they can be shared to other team members and how much may be told.
+Instances of abusive, harassing, or otherwise, unacceptable behavior may be reported by contacting blacklight447 via email on blacklight447@privacytools.io or [any team member on our forum]. The reports should include information on whether they can be shared with other team members and how much may be told.
 
 [any team member on our forum]:https://forum.privacytools.io/g/team
 
-All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality concerning the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.

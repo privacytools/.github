@@ -4,11 +4,11 @@ This document outlines security procedures and policies for all non-forked repos
 
 ## Reporting a Bug
 
-We take all security bugs related to our code and our infrastructure very seriously. Thank you for improving the security of our projects and services. We appreciate your efforts and responsible disclosure, and will make every effort to acknowledge your contributions.
+We take all security bugs related to our code and our infrastructure very seriously. Thank you for improving the security of our projects and services. We appreciate your efforts and responsible disclosure and will make every effort to acknowledge your contributions.
 
-Report any security bugs by emailing the services administrator at [admin@privacytools.io](mailto:admin@privacytools.io).
+Report any security bugs by emailing the administrator of the service at [admin@privacytools.io](mailto:admin@privacytools.io).
 
-The administrative team will acknowledge your message within 48 hours, and will provide a detailed response within 72 hours detailing the next steps for handling your report. After our initial reply we will make every effort to keep you informed of the progress towards a fix and announcement, and we may ask for additional information or guidance.
+The administrative team will acknowledge your message within 48 hours and will provide a detailed response within 72 hours detailing the next steps for handling your report. After our initial reply, we will make every effort to keep you informed of the progress towards a fix and announcement, and we may ask for additional information or guidance.
 
 Please report any security bugs in third-party projects to the person or team developing that project. Examples of third-party projects include our Searx instance (search.privacytools.io) and our Riot instance (riot.privacytools.io), as we do not actively assist in developing those projects.
 
@@ -32,4 +32,4 @@ Additionally, if user data was directly affected or compromised, we will inform 
 
 ## Comments on this Policy
 
-Please open a [Pull Request](https://github.com/privacytoolsIO/.github/pulls) or [Issue](https://github.com/privacytoolsIO/.github/issues) if you would like to discuss any changes to this policy.
+Please open a [Pull Request](https://github.com/privacytools/.github/pulls) or [Issue](https://github.com/privacytools/.github/issues) if you would like to discuss any changes to this policy.
